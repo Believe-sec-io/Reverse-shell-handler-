@@ -38,7 +38,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/reverse-shell-handler.git
-cd reverse-shell-c2
+cd reverse-shell-handler
 
 # Start the handler
 python3 handler.py
