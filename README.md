@@ -37,7 +37,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/reverse-shell-handler.git
+git clone https://github.com/Believe-sec-io/reverse-shell-handler.git
 cd reverse-shell-handler
 
 # Start the handler
