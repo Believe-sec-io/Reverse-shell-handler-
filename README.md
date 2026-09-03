@@ -1,4 +1,4 @@
-# 🖥️ Reverse Shell C2 - Lightweight Command & Control
+# 🖥️ Reverse Shell c2 - Lightweight Command & Control
 
 > A minimalist, cross-platform reverse shell handler for educational purposes and penetration testing demonstrations.
 
@@ -37,7 +37,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/reverse-shell-c2.git
+git clone https://github.com/yourusername/reverse-shell-handler.git
 cd reverse-shell-c2
 
 # Start the handler
